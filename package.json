@@ -2,7 +2,7 @@
   "name": "user-reg-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://amrit12001703.hithub.io/user-registration-ui",
+  "homepage": "http://amrit12001703.github.io/user-registration-ui",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
