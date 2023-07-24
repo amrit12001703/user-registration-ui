@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Navbar/>
         <Routes>
-          <Route exact path="/" element={<Home/>}/>
+          <Route exact path="/user-registration-ui" element={<Home/>}/>
           <Route exact path="/addUser" element={<AddUser/>}/>
           <Route exact path="/editUser/:id" element={<EditUser/>}/>
           <Route exact path="/viewuser/:id" element={<ViewUser />} />
